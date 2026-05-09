@@ -35,6 +35,3 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dutranacarolina&color=blueviolet&style=flat-square&label=Visitantes+do+perfil" />
-</p>
