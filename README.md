@@ -9,7 +9,7 @@
 💡 Aprendendo constantemente novas tecnologias e boas práticas
 🔍 Aberta a oportunidades de emprego e estágio
 🌱 Atualmente evoluindo em Java, Python e SQL
-💬 Pode me perguntar sobre OOP, lógica de programação e banco de dados
+💬 OOP, lógica de programação e banco de dados
 
 
 <h1>🛠️ Tecnologias que estudo </h1>
